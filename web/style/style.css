@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+#body{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1350px;
+	height: 600px;
+	background-color: #edf1f5;
+	background-image: url(../image/%E6%9C%9D%E3%81%AE%E6%B5%B7%E6%B8%AF_1.jpg);
+}
+#banner{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 35px;
+	width: 1350px;
+	color: #3c8dbd;
+	background-color: #3c8dbd;
+	
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFF;
+	font-family: "华文新魏";
+	font-size: large;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+#logo{
+	/* [disabled]position: absolute; */
+	/* [disabled]left: 0px; */
+	/* [disabled]top: 0px; */
+	height: 35px;
+	width: 173px;
+	background-color: #367ea9;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 100;
+	font-size: x-large;
+	line-height: 33px;
+	font-family: "华文隶书";
+}
+#sidebar{
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	height: 515px;
+	width: 173px;
+	background-color: #222c32;
+}
+.banner_1{
+	position: absolute;
+	left: 430px;
+	top: 0px;
+	width: 200px;
+	height: 34px;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 100;
+	font-size: x-large;
+	line-height: 33px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	border-color: #FFFFFF;
+	border-spacing: 0px 0px;
+	border-width: 1px;
+	border-right-style: inset;
+	border-bottom-style: none;
+	border-left-style: ridge;
+	border-radius: 5px / 0px;
+}
+.banner_2{
+	position: absolute;
+	left: 631px;
+	top: 0px;
+	width: 200px;
+	height: 34px;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 100;
+	font-size: x-large;
+	line-height: 33px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	border-color: #FFFFFF;
+	border-spacing: 0px 0px;
+	border-width: 1px;
+	border-right-style: inset;
+	border-bottom-style: none;
+	border-left-style: ridge;
+	border-radius: 5px / 0px;
+}
+.banner_3{
+	position: absolute;
+	left: 832px;
+	top: 0px;
+	width: 200px;
+	height: 34px;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 100;
+	font-size: x-large;
+	line-height: 33px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	border-color: #FFFFFF;
+	border-spacing: 0px 0px;
+	border-width: 1px;
+	border-right-style: inset;
+	border-bottom-style: none;
+	border-left-style: ridge;
+	border-radius: 5px / 0px;
+}
+.log{
+	position: absolute;
+	right: 20px;
+	top: 5px;
+	width: 132px;
+	height: 47px;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 100;
+	font-size: x-large;
+	line-height: 33px;
+	font-family: "华文新魏";
+
+}
+#bottombar{
+	height: 32px;
+	width: 1350px;
+	background-color: #333333;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 100;
+	font-size: large;
+	line-height: 33px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	position: absolute;
+	bottom: -20px;
+}
+#Search{
+	position: absolute;
+	top: 134px;
+	left: 138px;
+	width: 932px;
+	height: 437px;
+	
+}
+#Search1{
+	position: absolute;
+	top: 3px;
+	left: 0px;
+	width: 399px;
+	height: 132px;
+	font-size: 145px;
+	font-family: "华文隶书";
+	color: #3c8dbd;
+}
+#Input {
+	position: absolute;
+	height: 80px;
+	width: 332px;
+	left: 307px;
+	top: 190px;
+}
+#submit{
+	position: absolute;
+	left: 661px;
+	top: 132px;
+	height: 158px;
+}

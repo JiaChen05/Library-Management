@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+#main{
+	position: absolute;
+	top: 100px;
+	left: 113px;
+	width: 1045px;
+	height: 400px;
+	background-color: #3c8dbd;
+	background-image: url(../image/%E6%9C%9D%E3%81%AE%E6%B5%B7%E6%B8%AF.jpg);
+	background-position: 52% 35%;
+}
+#log_logo{
+	text-align: center;
+	font-weight: 400;
+	font-size: 60px;
+	line-height: 145px;
+	font-family: "华文隶书";
+	color: #3C8DBD;
+	font-style: normal;
+	
+}
+#log{
+	height: 400px;
+	position: absolute;
+	right: 191px;
+	top: 100px;
+	width: 350px;
+	background-color: #FFFFFF;
+}
+
+#Usernumber_1{
+	text-align: left;
+	color: #3C8DBD;
+	width: 73px;
+	position: absolute;
+	top: 160px;
+	left: 6px;
+	font-family: "华文新魏";
+	font-size: 24px;
+}
+#Usernumber_2{
+	text-align: left;
+	color: #3C8DBD;
+	width: 180px;
+	position: absolute;
+	left: 110px;
+	top: 160px;
+	height: 39px;
+}
+
+#password_1{
+	text-align: left;
+	color: #3C8DBD;
+	position: absolute;
+	top: 215px;
+	left: 7px;
+	font-family: "华文新魏";
+	font-size: 24px;
+}
+#password_2{
+	position: absolute;
+	top: 215px;
+	left: 110px;
+	width: 180px;
+	height: 40px;
+}
+#button1{
+	position: absolute;
+	top: 295px;
+	left: 20px;
+	width: 115px;
+}
+#button2{
+	position: absolute;
+	top: 295px;
+	left: 194px;
+	width: 105px;
+}
